@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Routes</string>
+    <string name="apiKey">Api Key</string>
+    <string name="title_location_permission">Permissions required to access the map</string>
+    <string name="ok">OK</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="submit">Save</string>
+    <string name="welcome">Welcome</string>
+    <string name="note">Save your routes</string>
+
+</resources>

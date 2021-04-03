@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_location_permission">Permissions required to access the map</string>
+    <string name="ok">OK</string>
+    <string name="submit">Save</string>
+    <string name="welcome">Welcome</string>
+    <string name="note">Save your routes</string>
+</resources>
